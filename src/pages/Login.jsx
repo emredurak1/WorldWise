@@ -11,7 +11,6 @@ export default function Login() {
   const [password, setPassword] = useState("qwerty");
   const navigate = useNavigate();
   const { isAuthenticated, login } = useAuth();
-  console.log(login);
 
   function handleSubmit(e) {
     e.preventDefault();

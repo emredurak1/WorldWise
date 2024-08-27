@@ -11,7 +11,6 @@ const BASE_URL = "http://localhost:8000";
 const CitiesContext = createContext();
 
 function reducer(state, action) {
-  console.log(state);
   switch (action.type) {
     case "loading":
       return { ...state, isLoading: true };
