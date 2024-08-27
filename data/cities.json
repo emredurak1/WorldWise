@@ -1,0 +1,100 @@
+{
+  "cities": [
+    {
+      "id": "f81e",
+      "cityName": "London",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "notes": "That was a grea trip!",
+      "date": "2024-08-24T15:05:06.631Z",
+      "emoji": "🇬🇧",
+      "position": {
+        "lat": "51.53737626217949",
+        "lng": "-0.0878909886645385"
+      }
+    },
+    {
+      "id": "44a6",
+      "cityName": "Paris",
+      "country": "France",
+      "notes": "",
+      "date": "2024-08-24T15:05:26.539Z",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "48.839708908631785",
+        "lng": "2.395019583974585"
+      }
+    },
+    {
+      "id": "e25d",
+      "cityName": "Vienna",
+      "country": "Austria",
+      "notes": "",
+      "date": "2024-08-24T15:05:49.712Z",
+      "emoji": "🇦🇹",
+      "position": {
+        "lat": "48.210845179107245",
+        "lng": "16.369620508167692"
+      }
+    },
+    {
+      "id": "f0af",
+      "cityName": "Berlin",
+      "country": "Germany",
+      "notes": "",
+      "date": "2024-08-24T15:06:04.325Z",
+      "emoji": "🇩🇪",
+      "position": {
+        "lat": "52.526367502175894",
+        "lng": "13.414310916387185"
+      }
+    },
+    {
+      "id": "6d85",
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "notes": "",
+      "date": "2024-08-24T15:06:20.550Z",
+      "emoji": "🇹🇷",
+      "position": {
+        "lat": "39.9341370166769",
+        "lng": "32.83126309520528"
+      }
+    },
+    {
+      "id": "6c1b",
+      "cityName": "Athens",
+      "country": "Greece",
+      "notes": "",
+      "date": "2024-08-24T15:06:29.488Z",
+      "emoji": "🇬🇷",
+      "position": {
+        "lat": "37.981237622449015",
+        "lng": "23.722236399038238"
+      }
+    },
+    {
+      "id": "a4a1",
+      "cityName": "Rome",
+      "country": "Italy",
+      "notes": "",
+      "date": "2024-08-24T15:06:35.965Z",
+      "emoji": "🇮🇹",
+      "position": {
+        "lat": "41.70817589256701",
+        "lng": "12.524473779192034"
+      }
+    },
+    {
+      "id": "087b",
+      "cityName": "Madrid",
+      "country": "Spain",
+      "notes": "",
+      "date": "2024-08-24T15:06:41.755Z",
+      "emoji": "🇪🇸",
+      "position": {
+        "lat": "40.349697921724626",
+        "lng": "-3.5594848553883334"
+      }
+    }
+  ]
+}
