@@ -1,3 +1,16 @@
 {
-  "cities": []
+  "cities": [
+    {
+      "id": "2d1d",
+      "cityName": "Andon",
+      "country": "France",
+      "notes": "",
+      "date": "2024-08-28T12:14:39.000Z",
+      "emoji": "🇫🇷",
+      "position": {
+        "lat": "43.736980547559504",
+        "lng": "6.833493087095956"
+      }
+    }
+  ]
 }
